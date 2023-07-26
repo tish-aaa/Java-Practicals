@@ -1,3 +1,5 @@
+/* Demonstration of Default Constructor and Parameterized Constructor by Swapping 2 Numbers*/
+
 class swap
 {
 	int a,b;
