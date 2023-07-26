@@ -1,3 +1,5 @@
+/*Demonstration of Methods of Object Class.*/
+
 class marks
 {
 	double m1,m2,m3;
