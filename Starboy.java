@@ -1,3 +1,13 @@
+/* 
+Question:
+Write a Java program to display the following pattern.
+* 
+** 
+**** 
+*****
+*/
+
+
 class Starboy
 {
 	public static void main(String args[])
