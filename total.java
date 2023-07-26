@@ -1,3 +1,5 @@
+/*Demonstration of instance variables and dot operator*/
+
 class marks
 {
 	double m1,m2,m3;
