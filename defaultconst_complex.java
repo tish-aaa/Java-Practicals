@@ -1,3 +1,9 @@
+/*
+Demonstration of Default Contructor by adding two complex numbers.
+1st Complex number has Default values.
+2nd Complex number has User-defined values.
+*/
+
 class complex
 {
 	int a,b;
