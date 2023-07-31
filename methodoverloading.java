@@ -1,3 +1,7 @@
+/*
+Demonstration of Method Overloading.
+*/	
+
 class dist
 {
 	int add(int a, int b)
