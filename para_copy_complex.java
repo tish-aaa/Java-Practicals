@@ -1,3 +1,8 @@
+/*
+Demonstration of Parameterized Constructor and Copy Constructor.
+1st Complex number has parameterized values.
+2nd Complex number has copied values.
+*/
 class complex
 {
 	int r,i;
