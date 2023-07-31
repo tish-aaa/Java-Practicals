@@ -7,7 +7,6 @@ class swap
 	{
 		a=0;
 		b=0;
-	System.out.println("Default Constructor Values:"+a+b);	
 	}
 	swap(int x, int y)
 	{
@@ -27,11 +26,12 @@ class swap
 		System.out.println("2nd Number:"+b);
 	}
 }
-class swapno
+class const_overloading_swap
 {
 	public static void main(String args[])
 	{
 	swap y=new swap();
+	System.out.println("Default Constructor Values:"+y.a+y.b);	
 	swap z=new swap(5,11);
 		z.swapping();
 	}
