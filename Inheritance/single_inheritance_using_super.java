@@ -1,3 +1,6 @@
+/*
+Demonstration of Singlelevel Inheritance using super().
+*/
 class superclass
 {
 	double i,j;
