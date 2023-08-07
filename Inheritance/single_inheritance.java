@@ -1,3 +1,7 @@
+/*
+Demonstration of Singlelevel Inheritance.
+*/
+
 class add
 {
 	double i,j;
